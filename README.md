@@ -18,6 +18,8 @@ Here are some examples of the mobile application screens of the project:
 | para cekme (atm) 1            | para cekme (atm)  2             | para cekme (atm)  3             |
 | ![Başlık 1](https://github.com/elektrasta/Windows_form_applications/blob/main/Kistirmaca/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-02-23%20202035.png) | ![Başlık 2](https://github.com/elektrasta/Windows_form_applications/blob/main/Kistirmaca/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-02-23%20202119.png) | ![Başlık 3](https://github.com/elektrasta/Windows_form_applications/blob/main/Kistirmaca/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-02-23%20202140.png) |
 | Kıstırmaca 1            | Kıstırmaca  2             | Kıstırmaca  3             |
+| ![Başlık 1](https://github.com/elektrasta/Windows_form_applications/blob/main/_20220328_AtYarisi/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-02-23%20202345.png) | ![Başlık 2](https://github.com/elektrasta/Windows_form_applications/blob/main/_20220328_AtYarisi/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-02-23%20202434.png) | ![Başlık 3](https://github.com/elektrasta/Windows_form_applications/blob/main/_20220328_AtYarisi/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-02-23%20202453.png) |
+| At_Yarışı 1            | At_Yarışı  2             | At_Yarışı  3             |
 
 ## Utilization
 
