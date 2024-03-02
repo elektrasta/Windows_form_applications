@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doğduğumdan beri kaç zaman geçti", "Doğduğumdan beri kaç zaman geçti\Doğduğumdan beri kaç zaman geçti.csproj", "{FABB4588-4404-482B-83EB-8DD029D17340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABB4588-4404-482B-83EB-8DD029D17340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABB4588-4404-482B-83EB-8DD029D17340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABB4588-4404-482B-83EB-8DD029D17340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABB4588-4404-482B-83EB-8DD029D17340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD125D5-7449-4405-B9D4-E182959E0A08}
+	EndGlobalSection
+EndGlobal

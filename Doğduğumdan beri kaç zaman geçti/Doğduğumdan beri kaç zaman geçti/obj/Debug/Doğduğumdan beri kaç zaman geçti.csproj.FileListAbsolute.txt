@@ -1,0 +1,7 @@
+C:\Users\omerc\source\repos\Doğduğumdan beri kaç zaman geçti\Doğduğumdan beri kaç zaman geçti\bin\Debug\Doğduğumdan beri kaç zaman geçti.exe.config
+C:\Users\omerc\source\repos\Doğduğumdan beri kaç zaman geçti\Doğduğumdan beri kaç zaman geçti\bin\Debug\Doğduğumdan beri kaç zaman geçti.exe
+C:\Users\omerc\source\repos\Doğduğumdan beri kaç zaman geçti\Doğduğumdan beri kaç zaman geçti\bin\Debug\Doğduğumdan beri kaç zaman geçti.pdb
+C:\Users\omerc\source\repos\Doğduğumdan beri kaç zaman geçti\Doğduğumdan beri kaç zaman geçti\obj\Debug\Doğduğumdan beri kaç zaman geçti.csproj.AssemblyReference.cache
+C:\Users\omerc\source\repos\Doğduğumdan beri kaç zaman geçti\Doğduğumdan beri kaç zaman geçti\obj\Debug\Doğduğumdan beri kaç zaman geçti.csproj.CoreCompileInputs.cache
+C:\Users\omerc\source\repos\Doğduğumdan beri kaç zaman geçti\Doğduğumdan beri kaç zaman geçti\obj\Debug\Doğduğumdan beri kaç zaman geçti.exe
+C:\Users\omerc\source\repos\Doğduğumdan beri kaç zaman geçti\Doğduğumdan beri kaç zaman geçti\obj\Debug\Doğduğumdan beri kaç zaman geçti.pdb
