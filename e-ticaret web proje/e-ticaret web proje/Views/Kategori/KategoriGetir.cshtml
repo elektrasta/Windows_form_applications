@@ -1,0 +1,17 @@
+﻿@model e_ticaret_web_proje.Models.Siniflar.Kategori
+@{
+    ViewBag.Title = "KategoriGetir";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<br />
+<h2>KategoriGetir</h2>
+<br />
+@using (Html.BeginForm("KategoriGüncelle", "Kategori", FormMethod.Post))
+ {
+    <div class="form-group">
+        @Html.LabelFor(x => x.KategoriAd) @*veri tabanındaki tablonun ismini getirdik*@
+        @Html.TextBoxFor(x => x.KategoriAd, new { @class = "form-control" }) @*textboxu getirdik*@
+        @Html.HiddenFor(x=>x.KategoriID) @*kategoriıd ı burdan al*@
+    </div>
+    <button class="btn btn-warning">Güncelle</button> @*buton getirdim*@
+ }

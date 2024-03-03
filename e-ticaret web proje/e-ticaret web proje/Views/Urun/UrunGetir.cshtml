@@ -1,0 +1,39 @@
+﻿@model e_ticaret_web_proje.Models.Siniflar.Urun
+@{
+    ViewBag.Title = "UrunGetir";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<br />
+<h2>Ürün Güncelleme Sayfası</h2>
+<br />
+@using (Html.BeginForm("UrunGuncelle", "Urun", FormMethod.Post))
+{ 
+    @Html.HiddenFor(x=> x.Urunid)
+    @Html.LabelFor(x => x.UrunAd) @*veri tabanındaki tablonun ismini getirdik*@
+    @Html.TextBoxFor(x => x.UrunAd, new { @class = "form-control" }) @*textboxu getirdik*@
+    <br />
+    @Html.LabelFor(x => x.Marka) @*veri tabanındaki tablonun ismini getirdik*@
+    @Html.TextBoxFor(x => x.Marka, new { @class = "form-control" }) @*textboxu getirdik*@
+    <br />
+    @Html.LabelFor(x => x.Stok) @*veri tabanındaki tablonun ismini getirdik*@
+    @Html.TextBoxFor(x => x.Stok, new { @class = "form-control" }) @*textboxu getirdik*@
+    <br />
+    @Html.LabelFor(x => x.AlisFiyat) @*veri tabanındaki tablonun ismini getirdik*@
+    @Html.TextBoxFor(x => x.AlisFiyat, new { @class = "form-control" }) @*textboxu getirdik*@
+    <br />
+    @Html.LabelFor(x => x.SatisFiyat) @*veri tabanındaki tablonun ismini getirdik*@
+    @Html.TextBoxFor(x => x.SatisFiyat, new { @class = "form-control" }) @*textboxu getirdik*@
+    <br />
+    @Html.LabelFor(x => x.Kategori.KategoriID) @*veri tabanındaki tablonun ismini getirdik not:.KategoriID silebilirsin*@
+    @Html.DropDownListFor(x => x.Kategoriid, (List<SelectListItem>)ViewBag.dgr1, new { @class = "form-control" })
+    <!--@Html.TextBoxFor(x => x.Kategoriid, new { @class = "form-control" })--> @*textboxu getirdik*@
+    <br />
+    @Html.LabelFor(x => x.UrunGorsel) @*veri tabanındaki tablonun ismini getirdik*@
+    @Html.TextBoxFor(x => x.UrunGorsel, new { @class = "form-control" }) @*textboxu getirdik*@
+    <br />
+    @Html.LabelFor(x => x.Durum) @*veri tabanındaki tablonun ismini getirdik*@
+    @Html.TextBoxFor(x => x.Durum, new { @class = "form-control" })@*textboxu getirdik*@
+    <br />
+    <button class="btn btn-info">Güncelle</button>@*buton getirdim*@
+}
+
