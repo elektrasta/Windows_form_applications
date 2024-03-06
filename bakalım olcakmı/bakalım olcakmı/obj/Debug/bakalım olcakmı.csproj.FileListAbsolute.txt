@@ -1,0 +1,7 @@
+C:\Users\omerc\source\repos\bakalım olcakmı\bakalım olcakmı\obj\Debug\bakalım olcakmı.csproj.AssemblyReference.cache
+C:\Users\omerc\source\repos\bakalım olcakmı\bakalım olcakmı\obj\Debug\bakalım olcakmı.csproj.CoreCompileInputs.cache
+C:\Users\omerc\source\repos\bakalım olcakmı\bakalım olcakmı\bin\Debug\bakalım olcakmı.exe.config
+C:\Users\omerc\source\repos\bakalım olcakmı\bakalım olcakmı\bin\Debug\bakalım olcakmı.exe
+C:\Users\omerc\source\repos\bakalım olcakmı\bakalım olcakmı\bin\Debug\bakalım olcakmı.pdb
+C:\Users\omerc\source\repos\bakalım olcakmı\bakalım olcakmı\obj\Debug\bakalım olcakmı.exe
+C:\Users\omerc\source\repos\bakalım olcakmı\bakalım olcakmı\obj\Debug\bakalım olcakmı.pdb
